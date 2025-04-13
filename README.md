@@ -26,7 +26,7 @@ I'm **Daiki** — a freshman passionate about scripting and building cool stuff 
 ### 📚 Education
 
 - **Chitralada Vocational School** (2022–2024)  
-  _Focus: Computer Science / Development_  
+  _Focus: IT, Coding, Networking_  
 - **Phra Tamnak Suankulab Nakhon Pathom School** (2019–2021)  
   GPA: `3.11 / 4.0`
 
