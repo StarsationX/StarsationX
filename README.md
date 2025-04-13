@@ -11,7 +11,7 @@ I'm **Daiki** — a freshman passionate about scripting and building cool stuff 
 - **Languages:** Lua, C++, Java, Python, Node.js  
 - **Web Dev:** HTML, CSS, A lil bit of TS
 - **Design:** UI/UX Design, Responsive Layouts  
-- **Tools:** Roblox Executors (Fluxus, Potassium, Wave, AWP), Figma, Git
+- **Tools:** Roblox Executors (Fluxus, Potassium, Wave, AWP), Figma, Git, VSCode
 
 ---
 
