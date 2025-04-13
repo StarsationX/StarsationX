@@ -49,6 +49,7 @@ I'm **Daiki** — a freshman passionate about scripting and building cool stuff 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarsationX&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 Well I dont really upload my code to github but I always have my way to back it up soooooo hehe :3
+
 ---
 
 > 🧠 _“Keep it optimized, keep it clean.”_
