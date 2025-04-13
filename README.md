@@ -2,13 +2,13 @@
 
 ## 🎓 Student | 💻 Developer | 🛠️ Game Debugger
 
-I'm Daiki — a university student diving deep into the realms of development and game scripting. I specialize in crafting optimized Lua scripts for Roblox, focusing on client-side enhancements and automation tools.
+I'm Daiki — a freshman diving deep into the realms of development and game scripting. I specialize in crafting optimized Lua scripts for Roblox, focusing on client-side enhancements and automation tools.
 
 ### 🧰 Skills & Technologies
 - *Languages:* Lua, C++, Java, Python, Node.js
-- *Web Development:* HTML, CSS, Three.js
+- *Web Development:* HTML, CSS, A Lil bit of TS
 - *Design:* UI/UX Design, Responsive Design
-- *Tools:* Roblox Executors (e.g., Fluxus), Figma
+- *Tools:* Roblox Executors (Potassium, Wave, AWP), Figma
 
 ### 🚀 Projects
 - *Roblox Evade Utils:* Enhancements for gameplay experience.&#8203;:contentReference[oaicite:2]{index=2}
@@ -32,8 +32,8 @@ I'm Daiki — a university student diving deep into the realms of development an
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DAIKICSZ&show_icons=true&theme=tokyonight" alt="Daiki's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAIKICSZ&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StarsationX&show_icons=true&theme=tokyonight" alt="Daiki's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarsationX&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
