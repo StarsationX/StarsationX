@@ -16,8 +16,8 @@ I'm **Daiki** — a freshman passionate about scripting and building cool stuff 
 ---
 
 ### 🚀 Featured Projects
-
-- 🎮 **The Hexation** – Custom Roblox script hub (Autofarm/Utility Scripts)  
+- 🎮 **Xenith Hub** – Check it out for yourself https://discord.gg/xenithhub
+- 🎮 **The Hexation** – Custom Roblox script hub (Autofarm/Utility Scripts)  // Merged With Xenith Hub
 - 🧠 **Project: Rin** – Early-stage AI companion idea, powered by Pygmalion 2.7B (Local)
 - 🛍️ **Quick Store Design** – Lightweight e-commerce Figma prototype for personal testing
 
