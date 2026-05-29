@@ -34,7 +34,7 @@ I'm **Daiki** — a freshman passionate about scripting and building cool stuff 
 
 ### 🌐 Online Presence
 
-- 🌐 Website: [starsation.elainasann.in.th](https://starsation.elainasann.in.th)  
+- 🌐 Website: [starsation.getxenith.cc/](https://starsation.getxenith.cc/)  
 - 💬 Discord: `Starsation`  
 - 📷 Instagram: [@daiki.starsation](https://www.instagram.com/daiki.starsation)  
 - 🧑‍💼 Facebook (Main): [Daiki Sukinatori](https://www.facebook.com/share/18WkqTZi7V/)  
